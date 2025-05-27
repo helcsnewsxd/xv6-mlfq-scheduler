@@ -1,3 +1,9 @@
+> [!note]
+> This repository contains code developed as part of the Operating Systems course at FAMAF – Universidad Nacional de Córdoba.  
+> The documentation is in Spanish as it was written for academic submission.  
+> It builds upon the public XV6 codebase. All rights to XV6 belong to its original authors.  
+> Educational use only.
+
 # Laboratorio número 3 de Sistemas Operativos 2022 - Grupo 12 | FaMAF UNC
 
 ## Integrantes del grupo:
